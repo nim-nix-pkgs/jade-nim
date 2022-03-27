@@ -11,6 +11,7 @@
   inputs.src-jade-nim-master.ref   = "refs/heads/master";
   inputs.src-jade-nim-master.owner = "idlewan";
   inputs.src-jade-nim-master.repo  = "jade-nim";
+  inputs.src-jade-nim-master.dir   = "";
   inputs.src-jade-nim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
