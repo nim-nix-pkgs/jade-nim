@@ -7,8 +7,17 @@
   "license": "MIT",
   "web": "https://github.com/idlewan/jade-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/idlewan/jade-nim/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "description": "Compiles jade templates to Nim procedures.",
+      "license": "MIT",
+      "name": "jade-nim",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/idlewan/jade-nim",
+      "version": "master"
+    }
+  ]
 }
