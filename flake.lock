@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689814,
-        "narHash": "sha256-+CEYudu/7B5ry0RlQW89x2Y3i+RjNa4t2H6dF/BXeHM=",
+        "lastModified": 1653696417,
+        "narHash": "sha256-ixYkd4DaUxeuVEW15Te6qMN7h5uBW1n3RGsNqEpNl8I=",
         "owner": "nim-nix-pkgs",
         "repo": "jade-nim",
-        "rev": "d80728a488030e18d6d2c38df3703c04fd10795b",
+        "rev": "5985fabc1ffd0ad2836444069c0ea5ceceb55df2",
         "type": "github"
       },
       "original": {
