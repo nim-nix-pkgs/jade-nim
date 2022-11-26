@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775881,
-        "narHash": "sha256-3l/08VweuIUevqSHc4qK3PbLmwC1qAnp6nuKt9LaAHk=",
+        "lastModified": 1669431155,
+        "narHash": "sha256-6aKbxKKjrNuUiCEZvDT8kHbKOS8+hH8YxlaP+SRelD8=",
         "owner": "nim-nix-pkgs",
         "repo": "jade-nim",
-        "rev": "bdb0dcb9c6ca7f16f3c2b737d6878aff492993f9",
+        "rev": "aaa0d641de7c46c0fb7687a475d12dbda7149cc8",
         "type": "github"
       },
       "original": {
